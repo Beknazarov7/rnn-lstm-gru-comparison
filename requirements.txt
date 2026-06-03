@@ -1,0 +1,23 @@
+# Core ML / DL
+tensorflow==2.21.0
+keras==3.14.1
+scikit-learn==1.8.0
+numpy==2.4.4
+scipy==1.17.1
+pandas==3.0.3
+
+# Audio (Task 1 — TESS / MFCC)
+librosa==0.11.0
+
+# Text (Task 2 — Twitter sentiment)
+nltk==3.9.4
+
+# Visualisation
+matplotlib==3.10.9
+seaborn==0.13.2
+
+# Notebook environment
+jupyterlab==4.5.7
+notebook==7.5.6
+ipykernel==7.2.0
+tqdm==4.67.3
