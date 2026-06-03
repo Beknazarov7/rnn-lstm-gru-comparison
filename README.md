@@ -66,4 +66,3 @@ jupyter lab
 ```
 
 Then open any notebook and run all cells. Total training time across all five notebooks is ~16 minutes on CPU.
-# rnn-lstm-gru-comparison
